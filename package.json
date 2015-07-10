@@ -1,0 +1,22 @@
+{
+  "name": "atom-karma-tests",
+  "version": "0.0.0",
+  "description": "Test project for testing atom-karma plugin",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmuli/atom-karma-tests.git"
+  },
+  "author": "Schmulik Raskin <schmuli@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/schmuli/atom-karma-tests/issues"
+  },
+  "homepage": "https://github.com/schmuli/atom-karma-tests#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.37",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6"
+  }
+}
